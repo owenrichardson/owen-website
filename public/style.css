@@ -1,0 +1,14 @@
+.banner {
+    position: sticky;
+    top: 0;
+    background-color: #00FF90;
+}
+
+.banner > img {
+   height: 4em;
+  
+}
+.banner > * {
+    display: inline;
+    vertical-align: middle;
+}   
